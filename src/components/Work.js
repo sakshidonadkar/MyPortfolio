@@ -19,11 +19,11 @@ const Work = () => {
           >
             {/* text */}
             <div>
-              <h2 className="h2 leading-tight text-accent lg:mb-1">
+              <h2 className="h2 leading-tight text-accent lg:mb-4">
                 My Latest <br />
                 work
               </h2>
-              <p className="max-w-sm lg:mb-2 text-[18px]">
+              <p className="max-w-sm lg:mb-16 text-[18px]">
                 Discover innovative projects and creative designs that reflect
                 my passion for coding and problem-solving.
               </p>
