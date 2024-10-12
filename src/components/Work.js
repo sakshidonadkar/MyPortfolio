@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 import Img1 from "../assets/project1.png";
 import Img2 from "../assets/project2.png";
-import Img3 from "../assets/project3.png";
+import Img3 from "../assets/project4.png";
 
 const Work = () => {
   return (
@@ -109,11 +109,11 @@ const Work = () => {
               />
               {/* pretitle */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient ">Basic ReactJS</span>
+                <span className="text-gradient ">Mern Stack</span>
               </div>
               {/* title */}
               <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-3xl text-white">Todo App</span>
+                <span className="text-3xl text-white">Doctor Appointment Booking App</span>
               </div>
             </a>
           </motion.div>

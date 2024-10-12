@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaLinkedin,FaMailBulk } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
-import { useNavigate } from "react-router-dom";
+
 import { Link } from "react-scroll";
 const Banner = () => {
   return (
