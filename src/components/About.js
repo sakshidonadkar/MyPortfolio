@@ -33,7 +33,7 @@ const About = () => {
             <h2 className="h2 text-accent">About Me</h2>
             <h3 className="h3 mb-4 uppercase">i am full stack deveolper.</h3>
             <p className="mb-6">
-              I am Sakshi Donadkar, a B.Tech Computer Science student at GH
+              I am Sakshi Donadkar, a B.Tech Computer Science student at G H
               Raisoni Institute Of Engineering And Technology, Nagpur. I
               specialize in web development and software projects, with skills
               in Python, Java, HTML, CSS, JavaScript, Bootstrap, and React.

@@ -28,12 +28,12 @@ const Work = () => {
                 my passion for coding and problem-solving.
               </p>
               <a
-                href="https://github.com/sakshidonadkar"
+                href="https://fun-with-code.vercel.app"
                 className="max-w-sm btn btn-lg flex items-center justify-center px-1"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                View all projects
+                Click here for Fun Games
               </a>
             </div>
             {/* Image1 */}
